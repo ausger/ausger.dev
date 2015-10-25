@@ -1,0 +1,12 @@
+{
+    "require": {},
+    "repositories":[
+        {
+            "packagist": false
+        },
+        {
+            "type":"composer",
+            "url":"http://packages.firegento.com"
+        }
+    ]
+}

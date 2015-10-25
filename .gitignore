@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Magento template
 .idea/
+vendor/
 .htaccess.sample
 .modgit/
 .modman/
