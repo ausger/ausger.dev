@@ -190,7 +190,10 @@
 
 ############################################
 ## By default allow all access
-
+    SetEnvIf Host www\.ausger\.dev:8888/zh/ MAGE_RUN_CODE=zh
+    SetEnvIf Host www\.ausger\.dev:8888/zh/ MAGE_RUN_TYPE=store
+    SetEnvIf Host ^ausger\.dev:8888/zh/ MAGE_RUN_CODE=zh
+    SetEnvIf Host ^ausger\.dev:8888/zh/ MAGE_RUN_TYPE=store
     Order allow,deny
     Allow from all
 
