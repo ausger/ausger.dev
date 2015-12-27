@@ -209,6 +209,13 @@ skin/frontend/base/default/images/geoip/
 skin/frontend/base/default/images/onestepcheckout/
 skin/frontend/base/default/onestepcheckout/
 
+## ingore DHL_intraship
+js/dhl/
+app/code/community/Dhl/
+app/etc/modules/Dhl_Account.xml
+app/etc/modules/Dhl_Intraship.xml
+app/etc/modules/Dhl_OnlineRetoure.xml
+lib/fpdf/
 
 
 
