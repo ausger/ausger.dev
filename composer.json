@@ -3,7 +3,8 @@
         "magento-hackathon/magento-composer-installer": "~3.0",
         "ausger/myporto": "dev-master",
         "ausger/onestepcheckout-v340":"dev-master",
-        "mageconsult/Dhl_Intraship":"dev-master"
+        "mageconsult/Dhl_Intraship":"dev-master",
+        "riconeitzel/german-localepack-de-de":"dev-master"
     },
     "repositories":[
         {

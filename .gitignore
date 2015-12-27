@@ -217,7 +217,13 @@ app/etc/modules/Dhl_Intraship.xml
 app/etc/modules/Dhl_OnlineRetoure.xml
 lib/fpdf/
 
-
+## ignore german language package
+app/code/community/German/LocalePackDe/etc/config.xml
+app/code/community/German/LocalePackDe/etc/system.xml
+app/code/community/German/LocalePackDe/Helper/Data.php
+app/code/community/German/LocalePackDe/Model/Observer.php
+app/etc/modules/German_LocalePackDe.xml
+js/german/localepackde/setup.js
 
 
 
