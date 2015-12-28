@@ -225,6 +225,7 @@ app/code/community/German/LocalePackDe/Model/Observer.php
 app/etc/modules/German_LocalePackDe.xml
 js/german/localepackde/setup.js
 
-
+app/code/community/Wfs/DisableCompare/
+app/etc/modules/Wfs_DisableCompare.xml
 
 
