@@ -5,7 +5,11 @@
         "ausger/onestepcheckout-v340":"dev-master",
         "mageconsult/Dhl_Intraship":"dev-master",
         "riconeitzel/german-localepack-de-de":"dev-master",
-        "ausger/disable-compare":"dev-master"
+        "ausger/disable-compare":"dev-master",
+        "AOEpeople/Aoe_Scheduler":"dev-master",
+        "aschroder/smtp_pro":"dev-master",
+        "GordonLesti/Lesti_Fpc":"dev-master",
+        "colinmollenhour/cache-backend-redis":"dev-master"
     },
     "repositories":[
         {

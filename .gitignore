@@ -228,4 +228,13 @@ js/german/localepackde/setup.js
 app/code/community/Wfs/DisableCompare/
 app/etc/modules/Wfs_DisableCompare.xml
 
-
+app/code/community/Aoe/
+app/code/community/Lesti/
+app/code/local/Aschroder/
+app/etc/fpc.xml.sample
+app/etc/modules/Aoe_Scheduler.xml
+app/etc/modules/Aschroder_SMTPPro.xml
+app/etc/modules/Lesti_Fpc.xml
+dev/
+scheduler_cron.sh
+shell/scheduler.php
