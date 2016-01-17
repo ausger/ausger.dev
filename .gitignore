@@ -238,3 +238,4 @@ app/etc/modules/Lesti_Fpc.xml
 dev/
 scheduler_cron.sh
 shell/scheduler.php
+magmi
