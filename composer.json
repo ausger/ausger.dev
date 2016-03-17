@@ -11,7 +11,6 @@
         "colinmollenhour/cache-backend-redis":"dev-master",
         "cosmocommerce/alipay":"dev-master",
         "ausger/shippingrate":"dev-master",
-        "integer-net/autoshipping":"dev-master",
         "magento-hackathon/honeyspam":"dev-master",
         "fbrnc/aoe_quotecleaner":"dev-master",
         "nexcess/magento-turpentine":"dev-master",
@@ -19,7 +18,8 @@
         "juicy/geoip" : "dev-master",
         "firegento/pdf" : "dev-master",
         "aoepeople/aoe_templatehints" : "dev-master",
-        "ausger/eucookie" : "dev-master"
+        "ausger/eucookie" : "dev-master",
+        "fooman/speedsteradvanced" : "dev-master"
     },
     "repositories":[
         {

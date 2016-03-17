@@ -104,6 +104,8 @@ media/.htaccess
 media/import/
 media/xmlconnect/
 media/catalog/product/cache/
+media/js/
+media/css/
 media/catalog/product/placeholder/default/
 /api.php
 nbproject/
@@ -274,3 +276,8 @@ app/etc/modules/FireGento_Pdf.xml
 app/etc/modules/Aoe_TemplateHints.xml
 app/code/local/Creare/
 app/etc/modules/Creare_Eucookielaw.xml
+
+app/code/community/Fooman/
+app/etc/modules/Fooman_Common.xml
+app/etc/modules/Fooman_SpeedsterAdvanced.xml
+lib/minify/
