@@ -3,6 +3,7 @@
 .idea/
 vendor/
 .htaccess.sample
+.htaccess.dist
 .modgit/
 .modman/
 app/code/community/Phoenix/
