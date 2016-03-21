@@ -3,23 +3,18 @@
         "magento-hackathon/magento-composer-installer": "~3.0",
         "ausger/myporto": "dev-master",
         "ausger/onestepcheckout-v340":"dev-master",
+        "ausger/shippingrate":"dev-master",
+        "cosmocommerce/alipay":"dev-master",
+        "fooman/speedsteradvanced" : "dev-master",
         "riconeitzel/german-localepack-de-de":"dev-master",
-        "ausger/disable-compare":"dev-master",
         "AOEpeople/Aoe_Scheduler":"dev-master",
         "aschroder/smtp_pro":"dev-master",
         "GordonLesti/Lesti_Fpc":"dev-master",
         "colinmollenhour/cache-backend-redis":"dev-master",
-        "cosmocommerce/alipay":"dev-master",
-        "ausger/shippingrate":"dev-master",
-        "magento-hackathon/honeyspam":"dev-master",
         "fbrnc/aoe_quotecleaner":"dev-master",
-        "nexcess/magento-turpentine":"dev-master",
         "aschroder/magento_setstartordernumber":"dev-master",
         "juicy/geoip" : "dev-master",
-        "firegento/pdf" : "dev-master",
-        "aoepeople/aoe_templatehints" : "dev-master",
-        "ausger/eucookie" : "dev-master",
-        "fooman/speedsteradvanced" : "dev-master"
+        "firegento/pdf" : "dev-master"
     },
     "repositories":[
         {
