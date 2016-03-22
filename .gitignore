@@ -138,7 +138,7 @@ skin/install/
 var/
 composer.lock
 ## ignore theme modules
-
+copyscript
 app/code/community/AddThis/
 app/code/local/Magegiant/
 app/code/local/Smartwave/
