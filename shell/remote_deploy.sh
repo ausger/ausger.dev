@@ -26,20 +26,20 @@ CACHE_DIR="/srv/www/magento1/ausger/current/var/cache/*"
         --exclude=install.php \
         --exclude=/dev \
         --exclude=/downloader \
-        --exclude=Thumbs.db \
-        --exclude=.DS_Store \
         --exclude=*.log \
         --exclude=*.htaccess* \
         --exclude=/feeds/* \
         --exclude=sitemap.xml \
         --exclude=/cgi-bin/ \
+        --exclude=/app/etc/local.xml \
         --exclude=/sh/ \
-        --exclude=/tmp/ \
         --exclude=/includes/src/ \
         --exclude=/nbproject/ \
         --exclude=/pkginfo/ \
         --exclude=/tmp/ \
         --exclude=/var/ \
+        --exclude=Thumbs.db \
+        --exclude=.DS_Store \
         -e "ssh -p 22" \
         $WC_DIR \
         $WEB_DIR
