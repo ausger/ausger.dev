@@ -284,3 +284,6 @@ app/code/community/Fooman/
 app/etc/modules/Fooman_Common.xml
 app/etc/modules/Fooman_SpeedsterAdvanced.xml
 lib/minify/
+
+app/code/community/Steverobbins/
+app/code/local/Alanstormdotcom/

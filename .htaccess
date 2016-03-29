@@ -197,7 +197,8 @@
     Order allow,deny
     Allow from all
 
-SetEnv MAGE_IS_DEVELOPER_MODE "true"
+# SetEnv MAGE_IS_DEVELOPER_MODE "true"
+
 ###########################################
 ## Deny access to release notes to prevent disclosure of the installed Magento version
 
