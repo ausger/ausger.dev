@@ -292,3 +292,5 @@ app/code/community/Steverobbins/
 app/code/local/Alanstormdotcom/
 app/etc/modules/Alanstormdotcom_Layoutviewer.xml
 app/etc/modules/Steverobbins_Redismanager.xml
+
+ausger_phpmyadmin-v0.92.sql
