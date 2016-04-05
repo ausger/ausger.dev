@@ -3,6 +3,9 @@
 .idea/
 vendor/
 .htaccess.sample
+.htaccess
+shell/remote_deploy.sh
+.htaccess-combined
 .htaccess.dist
 .modgit/
 .modman/
@@ -287,3 +290,5 @@ lib/minify/
 
 app/code/community/Steverobbins/
 app/code/local/Alanstormdotcom/
+app/etc/Alanstormdotcom_Layoutviewer.xml
+app/etc/Steverobbins_Redismanager.xml
