@@ -290,5 +290,5 @@ lib/minify/
 
 app/code/community/Steverobbins/
 app/code/local/Alanstormdotcom/
-app/etc/Alanstormdotcom_Layoutviewer.xml
-app/etc/Steverobbins_Redismanager.xml
+app/etc/modules/Alanstormdotcom_Layoutviewer.xml
+app/etc/modules/Steverobbins_Redismanager.xml
