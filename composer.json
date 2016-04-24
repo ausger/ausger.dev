@@ -17,7 +17,8 @@
         "firegento/pdf":"dev-master",
         "pulsestorm/layoutviewer":"dev-master",
         "steverobbins/redismanager":"dev-master",
-        "aoepeople/aoe_templatehints":"dev-master"
+        "aoepeople/aoe_templatehints":"dev-master",
+        "sphinx/search":"dev-master"
     },
     "repositories":[
         {

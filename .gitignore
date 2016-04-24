@@ -293,4 +293,6 @@ app/code/local/Alanstormdotcom/
 app/etc/modules/Alanstormdotcom_Layoutviewer.xml
 app/etc/modules/Steverobbins_Redismanager.xml
 
-ausger_phpmyadmin-v0.92.sql
+app/code/community/Manticorp/
+app/etc/modules/Manticorp_SphinxSearch.xml
+lib/sphinxapi.php
