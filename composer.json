@@ -18,7 +18,8 @@
         "pulsestorm/layoutviewer":"dev-master",
         "steverobbins/redismanager":"dev-master",
         "aoepeople/aoe_templatehints":"dev-master",
-        "sphinx/search":"dev-master"
+        "sphinx/search":"dev-master",
+        "jreinke/autocomplete":"dev-master"
     },
     "repositories":[
         {
