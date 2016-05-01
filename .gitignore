@@ -288,6 +288,7 @@ app/etc/modules/Creare_Eucookielaw.xml
 app/code/community/Fooman/
 app/etc/modules/Fooman_Common.xml
 app/etc/modules/Fooman_SpeedsterAdvanced.xml
+app/etc/modules/Fooman_GoogleAnalyticsPlus.xml
 lib/minify/
 
 app/code/community/Steverobbins/

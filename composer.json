@@ -19,7 +19,8 @@
         "steverobbins/redismanager":"dev-master",
         "aoepeople/aoe_templatehints":"dev-master",
         "sphinx/search":"dev-master",
-        "jreinke/autocomplete":"dev-master"
+        "jreinke/autocomplete":"dev-master",
+        "fooman/googleanalyticsplus":"dev-master"
     },
     "repositories":[
         {
