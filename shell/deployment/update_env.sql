@@ -1,4 +1,4 @@
-update core_config_data set value = 'http://www.ausger.de/' where path = 'web/unsecure/base_url';
+update core_config_data set value = 'https://www.ausger.de/' where path = 'web/unsecure/base_url';
 update core_config_data set value = 'https://www.ausger.de/' where path = 'web/secure/base_url';	
 update core_config_data set value = 'www-data' where path = 'system/cron/cronUser';		
 update core_config_data set value = '/usr/bin' where path = 'sphinxsearch/search/sphinxpath';
