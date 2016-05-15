@@ -57,9 +57,14 @@ app/Mage.php
 /cron.php
 cron.sh
 downloader/
-errors/
-!errors/default/503.phtml
-!errors/default/page.phtml
+errors/*.php
+errors/.htaccess
+errors/*.xml
+errors/default/css/
+errors/default/images/
+errors/default/*.original
+errors/default/report.phtml
+
 favicon.ico
 /get.php
 includes/
