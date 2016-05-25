@@ -26,6 +26,10 @@ update core_cache_option set value = '1' where code = 'fpc';
 update core_cache_option set value = '1' where code = 'layout';
 update core_cache_option set value = '1' where code = 'translate';
 
+update core_config_data set value = 'AU,AT,BE,CN,DK,FR,DE,IT,LU,NL,PL,RU,KR,ES,SE,CH,US' where path = 'general/region/state_required'
+update core_config_data set value = 'AU,AT,BE,BG,CA,CN,CH,CY,CZ,DE,DK,EE,ES,FI,FR,GB,GR,HK,HU,IE,IT,JP,KR,LV,LT,LU,MT,NL,NZ,NO,PL,PT,RO,RU,SE,SG,SI,SK,TR,TW,US' where path = 'general/country/allow'
+update core_config_data set value = 'AU,AT,BE,BG,CA,CN,CH,CY,CZ,DE,DK,EE,ES,FI,FR,GB,GR,HK,HU,IE,IT,JP,KR,LV,LT,LU,MT,NL,NZ,NO,PL,PT,RO,RU,SE,SG,SI,SK,TR,TW,US' where path = 'carriers/matrixrate/specificcountry'
+
 	
 	
 	
