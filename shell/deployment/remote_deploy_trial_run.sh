@@ -15,6 +15,7 @@ CACHE_DIR="/srv/www/magento1/ausger/current/var/cache/*"
         --delete \
         --exclude=copyscript \
         --exclude=/magmi \
+        --exclude=/magmi-H@2551507 \
         --exclude=/vendor \
         --exclude=.idea \
         --exclude=.gitignore \
@@ -43,6 +44,8 @@ CACHE_DIR="/srv/www/magento1/ausger/current/var/cache/*"
         --exclude=/app/etc/local.xml \
         --exclude=/sh/ \
         --exclude=/includes/src/ \
+        --exclude=/zh_sitemap/ \
+        --exclude=/sitemap/ \
         --exclude=/nbproject/ \
         --exclude=/pkginfo/ \
         --exclude=/tmp/ \
