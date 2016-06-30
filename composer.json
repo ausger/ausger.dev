@@ -21,7 +21,8 @@
         "sphinx/search":"dev-master",
         "jreinke/autocomplete":"dev-master",
         "firegento/magesetup":"dev-master",
-        "optimiseweb/mobiledetect":"dev-master"
+        "optimiseweb/mobiledetect":"dev-master",
+        "payserv/googlefinance":"dev-master"
 
     },
     "repositories":[

@@ -311,3 +311,7 @@ app/etc/modules/Bubble_Autocomplete.xml
 app/code/community/Optimiseweb/
 app/etc/modules/FireGento_MageSetup.xml
 app/etc/modules/Optimiseweb_MobileDetect.xml
+
+app/code/local/Payserv/
+app/etc/modules/Payserv_GoogleFinance.xml
+app/etc/modules/Smartwave_CountryDirectory.xml
