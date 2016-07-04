@@ -22,7 +22,8 @@
         "jreinke/autocomplete":"dev-master",
         "firegento/magesetup":"dev-master",
         "optimiseweb/mobiledetect":"dev-master",
-        "payserv/googlefinance":"dev-master"
+        "payserv/googlefinance":"dev-master",
+        "ausger/customcheckout":"dev-master"
 
     },
     "repositories":[

@@ -315,3 +315,7 @@ app/etc/modules/Optimiseweb_MobileDetect.xml
 app/code/local/Payserv/
 app/etc/modules/Payserv_GoogleFinance.xml
 app/etc/modules/Smartwave_CountryDirectory.xml
+
+app/code/local/Excellence/
+app/etc/modules/Excellence_Custom.xml
+app/etc/modules/Excellence_File.xml
